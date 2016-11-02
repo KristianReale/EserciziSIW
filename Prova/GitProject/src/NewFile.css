@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+body{
+	background-color : yellow;
+	margin-right : 2.5em;
+}
+
+h1{
+	font-family : sans-serif;
+	font-size : 4em;
+	color : red;
+	font-weight : bold;
+	font-style : italic;
+	text-align : center;
+}
+
+h2{
+	border : solid red 55px;
+}
